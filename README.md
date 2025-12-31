@@ -2,151 +2,231 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Renzo Robiño Tito Chura</h1>
 
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Estadístico+Computacional;Desarrollador+Shiny;Investigador+en+R;Docente+Universitaria" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Estadístico+Computacional;Investigador+en+R;Desarrollador+Shiny+Apps;Docente+Universitaria" alt="Headline" />
 </div>
 
 <p align="center"><strong>Estudiante de Estadística Computacional - UNA PUNO</strong></p>
-<p align="center">📍 Puno, Perú</p>
+<p align="center">📍 Puno, Perú | 📧 tchrenzo89@gmail.com</p>
 
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
-![GitHub followers](https://img.shields.io/github/followers/renzotchss301-lgtm?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/renzotchss301-lgtm?style=social) <img src="https://komarev.com/ghpvc/?username=renzotchss301-lgtm" alt="" />
+![GitHub followers](https://img.shields.io/github/followers/renzotchss301-lgtm?style=social&label=Seguidores) 
+![GitHub User's stars](https://img.shields.io/github/stars/renzotchss301-lgtm?style=social&label=Estrellas)
+![Repositorios](https://img.shields.io/badge/Repositorios-31-blue)
+![Última Actualización](https://img.shields.io/badge/Última_Actualización-Hoy-brightgreen)
 
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **Sobre Mí**
+<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=30px align="center"></picture> <br> **Sobre Mí**
 
-🔭 Actualmente trabajo en proyectos de **Estadística Computacional**  
-🌱 Estoy aprendiendo **Análisis Avanzado en R y Shiny**  
-💬 Pregúntame sobre **R, Shiny, Estadística, Meta-Análisis**  
+🔭 Actualmente trabajo en **proyectos de investigación estadística**  
+🌱 Estoy profundizando en **análisis de datos con R y Shiny**  
+💬 Experto en **estadística aplicada, meta-análisis, R programming**  
 📫 Contáctame: **tchrenzo89@gmail.com**  
-🎓 Universidad Nacional del Altiplano - Puno  
-⚡ Dato curioso: **Me apasiona aplicar la estadística a problemas del mundo real**
+🎓 **Universidad Nacional del Altiplano - Puno**  
+⚡ **Transformando datos en conocimiento para el desarrollo del altiplano**
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px> Redes Sociales
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=OU7pnVggz0E) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tchrenzo89@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/renzotchss301-lgtm)
+## 📊 **ESTADÍSTICAS DEL REPOSITORIO**
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Archivos-31-ff69b4" alt="Total de archivos">
+  <img src="https://img.shields.io/badge/PDFs-7-blue" alt="PDFs">
+  <img src="https://img.shields.io/badge/Datos_Excel-8-green" alt="Datos Excel">
+  <img src="https://img.shields.io/badge/Proyectos_Shiny-4-orange" alt="Proyectos Shiny">
+  <img src="https://img.shields.io/badge/Códigos_R-6-purple" alt="Códigos R">
+</p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 Categorías de Proyectos
-
-### 📱 **APLICACIONES SHINY**
-[![Shiny App](https://img.shields.io/badge/Nowcasting_Epidemia-008080?style=for-the-badge)](https://proyectosestcomputacionarenzortch.shinyapps.io/nowcastingepidemia/)
-[![Shiny App](https://img.shields.io/badge/Proyecto_Estadística-4B0082?style=for-the-badge)](https://proyectosestcomputacionarenzortch.shinyapps.io/proyect1/)
-[![Shiny App](https://img.shields.io/badge/Meta_Análisis-FF4500?style=for-the-badge)](https://proyectosestcomputacionarenzortch.shinyapps.io/metaAnalisis/)
-[![Shiny App](https://img.shields.io/badge/Bootstrap_Paper-32CD32?style=for-the-badge)](https://proyectosestcomputacionarenzot.shinyapps.io/boostrappaper/)
-
-### 🎥 **VIDEOS DE YOUTUBE**
-[![YouTube Video](https://img.shields.io/badge/Video_1:__Estadística_Computacional-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=OU7pnVggz0E)
-[![YouTube Video](https://img.shields.io/badge/Video_2:__Aplicaciones_Shiny-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=Sjq7-rmLS98)
-
-### 📁 **TRABAJOS - ESTADÍSTICA COMPUTACIONAL**
-| Trabajo | Descripción | Enlace |
-|---------|-------------|--------|
-| **Paper Segunda Unidad** | Investigación completa sobre métodos estadísticos | [Ver PDF](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/PAPER_SEGUNDA_UNIDAD_ESTADISTICA_COMPUTACIONAL.pdf) |
-| **Análisis de Uniformidad** | Estudio de uniformidad y rendimiento con profvis | [Ver Código](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/tree/main/Analisis%20de%20Uniformidad%20y%20Rendimiento%20con%20profvis) |
-| **Meta-Análisis 20 Artículos** | Revisión sistemática de investigaciones | [Ver Excel](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/MetaAnalisis20articulos.xlsx) |
-| **Prueba Chi-cuadrado** | Implementación en R Shiny | [Ver Código](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/tree/main/Prueba%20Chi-cuadrado%20R%20shiny) |
-
-### 💻 **CÓDIGOS SHINY Y R**
-- **Código Shiny Paper Unidad II** - [Ver Repositorio](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/tree/main/CODIGO%20SHINY%20PAPER%20UNIDAD%20II)
-- **Shiny Trabajo fin de unidad** - [Ver Código](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/tree/main/Shiny%20Trabajo%20fin%20de%20unidad)
-- **Aplicación Shiny Meta-Análisis** - [Ver Código](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/tree/main/aplicacionshinyMetaAnalisis)
-- **Introducción a R** - [Ver Código](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/tree/main/trabajo1Introduccion%20a%20R)
-
-### 📊 **DATOS Y CONJUNTOS DE DATOS**
-- **Datos Digitales Europa** - [CSV](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/datos_digitales_europa.csv)
-- **Datos Geográficos Puno** - [CSV](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/datos_geograficos_puno_actualizado.csv)
-- **Datos Sintéticos Puno 2025** - [CSV](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/datos_sinteticos_puno_2025_actualizado.csv)
-
-### 📚 **RECURSOS ADICIONALES**
-- **Manual Easy Stats en R** - [Ver PDF](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/MANUAL%20Easy%20Stats%20en%20R)
-- **Diapositivas Explicación Paper** - [Ver PDF](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/DIAPOSITIVASexplicacionpaper.pdf)
-- **Intervalos de Confianza** - [Ver PDF](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/INTERVALOS%20DE%20CONFIANZAejercicios.pdf)
+## 🌐 **Redes y Contacto**
+[![YouTube](https://img.shields.io/badge/YouTube_Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@renzotch)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tchrenzo89@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renzotchss301-lgtm)
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Habilidades Técnicas</b>
+## 🎥 **VIDEOS TUTORIALES EN YOUTUBE**
+| Video | Descripción | Enlace |
+|-------|-------------|--------|
+| **Video 1** | Estadística Computacional - Introducción | [Ver en YouTube](https://www.youtube.com/watch?v=OU7pnVggz0E) |
+| **Video 2** | Aplicaciones Shiny para Análisis Estadístico | [Ver en YouTube](https://www.youtube.com/watch?v=Sjq7-rmLS98) |
 
-### 📈 **Estadística y Análisis de Datos**
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📱 **APLICACIONES SHINY PUBLICADAS**
+<div align="center">
+  
+[![Shiny App](https://img.shields.io/badge/🚀_Nowcasting_Epidemia-008080?style=for-the-badge&logo=r&logoColor=white)](https://proyectosestcomputacionarenzortch.shinyapps.io/nowcastingepidemia/)
+[![Shiny App](https://img.shields.io/badge/📊_Proyecto_Estadística-4B0082?style=for-the-badge&logo=r&logoColor=white)](https://proyectosestcomputacionarenzortch.shinyapps.io/proyect1/)
+[![Shiny App](https://img.shields.io/badge/📈_Meta_Análisis-FF4500?style=for-the-badge&logo=r&logoColor=white)](https://proyectosestcomputacionarenzortch.shinyapps.io/metaAnalisis/)
+[![Shiny App](https://img.shields.io/badge/📋_Bootstrap_Paper-32CD32?style=for-the-badge&logo=r&logoColor=white)](https://proyectosestcomputacionarenzot.shinyapps.io/boostrappaper/)
+
+</div>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📚 **TRABAJOS ACADÉMICOS - ESTADÍSTICA COMPUTACIONAL**
+
+### 📄 **PAPERS Y INVESTIGACIONES**
+| Archivo | Descripción | Tipo |
+|---------|-------------|------|
+| **PAPER_SEGUNDA_UNIDAD_ESTADISTICA_COMPUTACIONAL.pdf** | Investigación completa sobre métodos estadísticos | 📄 Paper |
+| **paper_introduccion.pdf** | Introducción a la estadística computacional | 📄 Paper |
+| **dDECOHEN.pdf** | Trabajo sobre d de Cohen en estadística | 📄 Paper |
+| **DIAPOSITIVASexplicacionpaper.pdf** | Presentación del paper principal | 📊 Presentación |
+
+### 📈 **ANÁLISIS ESTADÍSTICOS**
+| Archivo | Descripción | Tipo |
+|---------|-------------|------|
+| **Normalidad y Uniformidad en Criptografía** | Análisis de propiedades estadísticas en criptografía | 📊 Análisis |
+| **Transformación Logarítmica Escalado y Normalización de Datos** | Técnicas de preprocesamiento de datos | 📊 Análisis |
+| **Analisis de Uniformidad y Rendimiento con profvis** | Optimización de código R con profvis | ⚡ Rendimiento |
+| **hipotesis de prueba test estadisticos** | Pruebas de hipótesis estadísticas | 🧪 Tests |
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💻 **CÓDIGOS SHINY Y R**
+
+### 🎨 **APLICACIONES SHINY COMPLETAS**
+- **CODIGO SHINY PAPER UNIDAD II** - Código fuente completo de la aplicación Shiny
+- **Prueba Chi-cuadrado R shiny** - Aplicación interactiva para pruebas χ²
+- **Shiny Trabajo fin de unidad** - Proyecto final integrador en Shiny
+- **aplicacionshinyMetaAnalisis** - Aplicación para meta-análisis estadístico
+
+### 📝 **CÓDIGOS R DE EJEMPLO**
+- **trabajo1Introduccion a R** - Introducción a la programación en R
+- **completarcodigoR** - Ejercicios y ejemplos en R
+- **caramelos y chupetines** - Análisis estadístico con datos reales
+- **resultadosestudioJuli.rar** - Datos comprimidos del estudio en Juli
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 **DATOS Y CONJUNTOS DE DATOS**
+
+### 🌧️ **DATOS METEOROLÓGICOS SENAMHI**
+| Archivo | Región | Descripción |
+|---------|--------|-------------|
+| **azangarodatasenamhi.xlsx** | Azángaro | Datos meteorológicos históricos |
+| **desaguaderodatasenamhi.xlsx** | Desaguadero | Datos climáticos de frontera |
+| **ilavedatasenamhi.xlsx** | Ilave | Información climática del lago |
+| **julidatasenamhi.xlsx** | Juli | Datos ambientales históricos |
+| **punodatasenamhi.xlsx** | Puno | Datos climáticos de la capital |
+
+### 🌍 **DATOS GEOGRÁFICOS Y EUROPEOS**
+- **datos_digitales_europa.csv** - Datos digitales de países europeos
+- **datos_geograficos_puno_actualizado.csv** - Información geográfica de Puno
+- **datos_sinteticos_puno_2025_actualizado.csv** - Proyecciones sintéticas para 2025
+- **MetaAnalisis20articulos.xlsx** - Base de datos para meta-análisis
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📖 **MANUALES Y GUÍAS**
+
+### 🛠️ **RECURSOS DE APRENDIZAJE**
+| Archivo | Descripción | Uso |
+|---------|-------------|-----|
+| **GUIA EASYSTATS.pdf** | Guía completa de EasyStats en R | 📚 Aprendizaje |
+| **MANUAL Easy Stats en R** | Manual detallado de estadística con R | 📚 Referencia |
+| **INTERVALOS DE CONFIANZAejercicios.pdf** | Ejercicios prácticos de intervalos | 📝 Práctica |
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🔧 **HABILIDADES TÉCNICAS**
+
+<div align="center">
+
+### 📈 **ESTADÍSTICA Y ANÁLISIS**
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-0099FF?style=for-the-badge&logo=r&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
+![Estadística](https://img.shields.io/badge/Estadística-8A2BE2?style=for-the-badge)
+![Meta-Análisis](https://img.shields.io/badge/Meta_Análisis-FF69B4?style=for-the-badge)
 
-### 🔬 **Métodos Estadísticos**
-![Meta-Análisis](https://img.shields.io/badge/Meta--Análisis-8A2BE2?style=for-the-badge)
-![Pruebas de Hipótesis](https://img.shields.io/badge/Pruebas_de_Hipótesis-FF69B4?style=for-the-badge)
-![Intervalos de Confianza](https://img.shields.io/badge/Intervalos_de_Confianza-32CD32?style=for-the-badge)
-![Análisis de Uniformidad](https://img.shields.io/badge/Análisis_de_Uniformidad-FF8C00?style=for-the-badge)
-
-### 🛠 **Herramientas**
+### 🛠️ **HERRAMIENTAS Y PLATAFORMAS**
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+### 📊 **MÉTODOS ESTADÍSTICOS**
+![Pruebas de Hipótesis](https://img.shields.io/badge/Pruebas_Hipótesis-FF8C00?style=for-the-badge)
+![Intervalos Confianza](https://img.shields.io/badge/Intervalos_Confianza-32CD32?style=for-the-badge)
+![Análisis Uniformidad](https://img.shields.io/badge/Análisis_Uniformidad-FF4500?style=for-the-badge)
+![Transformación Datos](https://img.shields.io/badge/Transformación_Datos-9370DB?style=for-the-badge)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas de GitHub</b>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renzotchss301-lgtm&show_icons=true&theme=radical" alt="Estadísticas de GitHub" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzotchss301-lgtm&layout=compact&theme=radical" alt="Lenguajes más usados" height="180"/>
-</p>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renzotchss301-lgtm&theme=radical" alt="Racha de contribuciones" height="180"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 **ESTADÍSTICAS DE GITHUB**
+
+<div align="center">
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=renzotchss301-lgtm&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=renzotchss301-lgtm&layout=compact&theme=radical&langs_count=8)
+![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=renzotchss301-lgtm&theme=radical&hide_border=true)
+
+</div>
+
+<div align="center">
+  
+![Contribuciones GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renzotchss301-lgtm&theme=radical)
+  
+</div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/renzotchss301-lgtm/renzotchss301-lgtm/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 **LÍNEAS DE INVESTIGACIÓN**
+- 📊 **Estadística aplicada a ciencias sociales y ambientales**
+- 🤖 **Desarrollo de herramientas Shiny para análisis estadístico**
+- 🔍 **Meta-análisis de estudios científicos regionales**
+- 📚 **Enseñanza de estadística con herramientas computacionales**
+- 🌡️ **Análisis de datos climáticos del altiplano peruano**
+- 🏔️ **Estudios geoestadísticos de la región Puno**
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 **Intereses de Investigación**
-- Estadística Computacional aplicada a ciencias sociales
-- Desarrollo de aplicaciones Shiny para análisis estadístico
-- Meta-análisis de estudios científicos
-- Enseñanza de estadística con herramientas computacionales
-- Análisis de datos geográficos del altiplano peruano
+## 📅 **ACTIVIDAD RECIENTE**
+- ✅ **Actualizado hoy**: dDECOHEN.pdf y GUIA EASYSTATS.pdf
+- ✅ **Actualizado hace 33 minutos**: PAPER principal
+- ✅ **Actualizado hace 7 horas**: Código Shiny Paper Unidad II
+- ✅ **Nuevos archivos**: Datos SENAMHI de 5 provincias
+- ✅ **Total actual**: 31 archivos organizados en categorías
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 😄 **Un dato curioso sobre mí**
-¡Mi primer análisis estadístico fue sobre datos climáticos del Lago Titicaca! 
+## 🌟 **CITA ESTADÍSTICA FAVORITA**
+> *"En estadística, no buscamos certezas absolutas, sino reducir la incertidumbre lo suficiente para tomar decisiones informadas."*
 
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
-### 📫 **Cómo contactarme**
-- **Email:** tchrenzo89@gmail.com
-- **GitHub:** [renzotchss301-lgtm](https://github.com/renzotchss301-lgtm)
-- **Universidad:** Universidad Nacional del Altiplano - Puno
+<div align="center">
 
-<p align="center">
-  <em>¡Gracias por visitar mi perfil! Siempre abierto a colaboraciones en proyectos estadísticos.</em>
-</p>
+### 📞 **CONTACTO Y COLABORACIONES**
+**✉️ Email:** tchrenzo89@gmail.com  
+**🏫 Institución:** Universidad Nacional del Altiplano - Puno  
+**📍 Ubicación:** Puno, Perú  
+**🎓 Especialidad:** Estadística Computacional  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=renzotchss301-lgtm&color=blue&style=flat-square" alt="Visitas al perfil">
-</p>
+*"Compartiendo conocimiento estadístico para el desarrollo del altiplano peruano"*
+
+![Visitas](https://komarev.com/ghpvc/?username=renzotchss301-lgtm&color=blue&label=VISITAS+AL+PERFIL&style=for-the-badge)
+
+</div>
