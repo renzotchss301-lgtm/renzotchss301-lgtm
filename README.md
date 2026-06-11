@@ -2,7 +2,7 @@
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Renzo Robiño Tito Chura</h1>
 
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Estudiante+ING+ESTADÍSTICA+E+INFORMÁTICA;FINESI+-+UNA+PUNO;Apasionado+por+los+Datos+y+la+Tecnología;Futuro+Estadístico+Informático" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=28&center=true&vCenter=true&width=700&height=50&lines=Estudiante+de+ING+ESTAD%C3%8DSTICA;Estudiante+de+ING+INFORM%C3%81TICA;FINESI+-+UNA+PUNO;Apasionado+por+los+Datos+y+la+Tecnolog%C3%ADa" alt="Headline" />
 </div>
 
 <p align="center"><strong>📊 Estudiante de ING ESTADÍSTICA E INFORMÁTICA | 📍 Puno, Perú | ✉️ tchrenzo89@gmail.com</strong></p>
@@ -204,6 +204,6 @@
 
 *"Aprendiendo y compartiendo conocimiento estadístico para el desarrollo del altiplano"*
 
-**© 2024 Renzo Robiño Tito Chura** - Estudiante FINESI
+**© 2026 Renzo Robiño Tito Chura** - Estudiante FINESI
 
 </div>
