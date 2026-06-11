@@ -58,75 +58,75 @@
 ## 📚 TRABAJOS ACADÉMICOS
 
 ### 📄 PAPERS Y REVISIONES SISTEMÁTICAS
-| Archivo | Descripción | Tipo |
-|---------|-------------|------|
-| **PAPER_SEGUNDA_UNIDAD_ESTADISTICA_COMPUTACIONAL.pdf** | Investigación sobre métodos estadísticos aplicados | 📄 Paper |
-| **Revision Sistematica Est. Comp. Renzo.pdf** | Revisión sistemática de literatura especializada | 📄 Revisión Sistemática |
+| Archivo | Descripción | Enlace |
+|---------|-------------|--------|
+| **PAPER_SEGUNDA_UNIDAD_ESTADISTICA_COMPUTACIONAL.pdf** | Investigación sobre métodos estadísticos aplicados | [🔗 Ver PDF](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/PAPER_SEGUNDA_UNIDAD_ESTADISTICA_COMPUTACIONAL.pdf) |
+| **Revision Sistematica Est. Comp. Renzo.pdf** | Revisión sistemática de literatura especializada | [🔗 Ver PDF](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/Revision%20Sistematica%20Est.%20Comp.%20Renzo.pdf) |
 
 ### 📖 MATERIALES DE ESTUDIO
-| Archivo | Descripción | Tipo |
-|---------|-------------|------|
-| **paper_introduccion.pdf** | Introducción a la estadística computacional | 📚 Introducción |
-| **dDECOHEN.pdf** | Estudio práctico de la d de Cohen | 📊 Análisis |
-| **DIAPOSITIVASexplicacionpaper.pdf** | Presentación del paper académico | 🎓 Presentación |
+| Archivo | Descripción | Enlace |
+|---------|-------------|--------|
+| **paper_introduccion.pdf** | Introducción a la estadística computacional | [🔗 Ver PDF](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/paper_introduccion.pdf) |
+| **dDECOHEN.pdf** | Estudio práctico de la d de Cohen | [🔗 Ver PDF](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/dDECOHEN.pdf) |
+| **DIAPOSITIVASexplicacionpaper.pdf** | Presentación del paper académico | [🔗 Ver PDF](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/DIAPOSITIVASexplicacionpaper.pdf) |
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💻 CÓDIGOS SHINY (Portafolio de Estudiante)
-| Proyecto | Descripción | Tecnología |
-|----------|-------------|------------|
-| **CODIGO SHINY PAPER UNIDAD II** | Código fuente de aplicación Shiny para investigación | R + Shiny |
-| **Prueba Chi-cuadrado R shiny** | App interactiva para pruebas estadísticas | R + Shiny |
-| **Shiny Trabajo fin de unidad** | Proyecto final integrador de la unidad | R + Shiny |
-| **aplicacionshinyMetaAnalisis** | Herramienta educativa para meta-análisis | R + Shiny |
+| Proyecto | Descripción | Enlace |
+|----------|-------------|--------|
+| **CODIGO SHINY PAPER UNIDAD II** | Código fuente de aplicación Shiny para investigación | [🔗 Ver Código](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/CODIGO%20SHINY%20PAPER%20UNIDAD%20II) |
+| **Prueba Chi-cuadrado R shiny** | App interactiva para pruebas estadísticas | [🔗 Ver Código](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/Prueba%20Chi-cuadrado%20R%20shiny) |
+| **Shiny Trabajo fin de unidad** | Proyecto final integrador de la unidad | [🔗 Ver Código](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/Shiny%20Trabajo%20fin%20de%20unidad) |
+| **aplicacionshinyMetaAnalisis** | Herramienta educativa para meta-análisis | [🔗 Ver Código](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/aplicacionshinyMetaAnalisis) |
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 ANÁLISIS ESTADÍSTICOS (Ejercicios)
-| Proyecto | Descripción | Enfoque |
-|----------|-------------|---------|
-| **Normalidad y Uniformidad en Criptografía** | Análisis de propiedades estadísticas | 🔐 Criptografía |
-| **Transformación Logarítmica Escalado y Normalización** | Técnicas de preprocesamiento de datos | 📈 Preprocesamiento |
-| **Analisis de Uniformidad y Rendimiento con profvis** | Optimización de código en R | ⚡ Rendimiento |
-| **hipotesis de prueba test estadisticos** | Pruebas de hipótesis aplicadas | 🧪 Tests |
+| Proyecto | Descripción | Enlace |
+|----------|-------------|--------|
+| **Normalidad y Uniformidad en Criptografía** | Análisis de propiedades estadísticas | [🔗 Ver Archivo](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/Normalidad%20y%20Uniformidad%20en%20Criptograf%C4%B1a) |
+| **Transformación Logarítmica Escalado y Normalización** | Técnicas de preprocesamiento de datos | [🔗 Ver Archivo](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/Transformacion%20Logar%C4%B1tmica%20Escalado%20y%20Normalizacion%20de%20Datos) |
+| **Analisis de Uniformidad y Rendimiento con profvis** | Optimización de código en R | [🔗 Ver Archivo](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/Analisis%20de%20Uniformidad%20y%20Rendimiento%20con%20profvis) |
+| **hipotesis de prueba test estadisticos** | Pruebas de hipótesis aplicadas | [🔗 Ver Archivo](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/hipotesis%20de%20prueba%20test%20estadisticos) |
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌧️ DATOS METEOROLÓGICOS (SENAMHI) - Proyecto Regional
-| Archivo | Región | Contenido |
-|---------|--------|-----------|
-| **azangarodatasenamhi.xlsx** | Azángaro | Datos climáticos históricos |
-| **desaguaderodatasenamhi.xlsx** | Desaguadero | Información de frontera |
-| **ilavedatasenamhi.xlsx** | Ilave | Datos del lago Titicaca |
-| **julidatasenamhi.xlsx** | Juli | Información ambiental |
-| **punodatasenamhi.xlsx** | Puno | Datos de la capital |
+| Archivo | Región | Enlace |
+|---------|--------|--------|
+| **azangarodatasenamhi.xlsx** | Azángaro | [📥 Descargar Excel](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/azangarodatasenamhi.xlsx) |
+| **desaguaderodatasenamhi.xlsx** | Desaguadero | [📥 Descargar Excel](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/desaguaderodatasenamhi.xlsx) |
+| **ilavedatasenamhi.xlsx** | Ilave | [📥 Descargar Excel](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/ilavedatasenamhi.xlsx) |
+| **julidatasenamhi.xlsx** | Juli | [📥 Descargar Excel](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/julidatasenamhi.xlsx) |
+| **punodatasenamhi.xlsx** | Puno | [📥 Descargar Excel](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/punodatasenamhi.xlsx) |
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📁 OTROS DATOS Y RECURSOS
-| Archivo | Descripción | Tipo |
-|---------|-------------|------|
-| **datos_digitales_europa.csv** | Datos digitales de países europeos | 🌍 CSV |
-| **datos_geograficos_puno_actualizado.csv** | Información geográfica de Puno | 🗺️ CSV |
-| **datos_sinteticos_puno_2025_actualizado.csv** | Proyecciones para 2025 | 📅 CSV |
-| **MetaAnalisis20articulos.xlsx** | Base de datos para meta-análisis | 📊 Excel |
-| **resultadosestudioJuli.rar** | Resultados de estudio en Juli | 📦 Archivo |
-| **caramelos y chupetines** | Ejercicio con datos reales | 🍬 Proyecto |
-| **completarcodigoR** | Ejercicios y ejemplos en R | 💻 Código |
+| Archivo | Descripción | Enlace |
+|---------|-------------|--------|
+| **datos_digitales_europa.csv** | Datos digitales de países europeos | [📥 Descargar CSV](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/datos_digitales_europa.csv) |
+| **datos_geograficos_puno_actualizado.csv** | Información geográfica de Puno | [📥 Descargar CSV](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/datos_geograficos_puno_actualizado.csv) |
+| **datos_sinteticos_puno_2025_actualizado.csv** | Proyecciones para 2025 | [📥 Descargar CSV](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/datos_sinteticos_puno_2025_actualizado.csv) |
+| **MetaAnalisis20articulos.xlsx** | Base de datos para meta-análisis | [📥 Descargar Excel](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/MetaAnalisis20articulos.xlsx) |
+| **resultadosestudioJuli.rar** | Resultados de estudio en Juli | (no proporcionado) |
+| **caramelos y chupetines** | Ejercicio con datos reales | [🔗 Ver Archivo](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/caramelos%20y%20chupetines) |
+| **completarcodigoR** | Ejercicios y ejemplos en R | [🔗 Ver Archivo](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/completarcodigoR) |
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📖 MANUALES Y GUÍAS
-| Archivo | Descripción | Uso |
-|---------|-------------|-----|
-| **GUIA EASYSTATS.pdf** | Guía básica de EasyStats en R | 📚 Aprendizaje |
-| **MANUAL Easy Stats en R** | Manual introductorio de estadística con R | 📚 Referencia |
-| **INTERVALOS DE CONFIANZAejercicios.pdf** | Ejercicios prácticos de intervalos | 📝 Práctica |
+| Archivo | Descripción | Enlace |
+|---------|-------------|--------|
+| **GUIA EASYSTATS.pdf** | Guía básica de EasyStats en R | [📥 Descargar PDF](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/GUIA%20EASYSTATS.pdf) |
+| **MANUAL Easy Stats en R** | Manual introductorio de estadística con R | [📥 Descargar PDF](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/MANUAL%20Easy%20Stats%20en%20R) |
+| **INTERVALOS DE CONFIANZAejercicios.pdf** | Ejercicios prácticos de intervalos | [📥 Descargar PDF](https://github.com/renzotchss301-lgtm/ESTADISTICA-COMPUTACIONAL/blob/main/INTERVALOS%20DE%20CONFIANZAejercicios.pdf) |
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
